@@ -1,5 +1,5 @@
 >## Analyze-time-staying-employees
-![](https://desktime.com/assets/img/guide/cover.png)
+<img src="https://desktime.com/assets/img/guide/cover.png" width=700 height=350 />
 
 **Problem statement**
 - [x] **Write python program that calculates the total stay time of all people for each date**
